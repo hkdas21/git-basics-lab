@@ -1,7 +1,7 @@
 # GH-900 · Day 1 Lab — Git Basics with a Real Project
 
 > **Lab project:** Build and version-control a **Cloud Engineer Profile Page** (HTML + CSS) from scratch — and learn every core Git concept along the way.
-
+Try this lab to get started with git
 ---
 
 ## Why this lab is different
